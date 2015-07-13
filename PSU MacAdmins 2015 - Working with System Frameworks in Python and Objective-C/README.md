@@ -13,4 +13,4 @@ This directory contains the slides from my PSU MacAdmins 2015 presentation, [Wor
 * [CowSayer Demo](https://dl.dropboxusercontent.com/u/3869918/PSU%20MacAdmins%202015%20Screencasts/cowsayer_demo.mp4)  
 
 [1]: http://macadmins.psu.edu/2015/04/19/psumac2015-62/
-[2]: /Working%20with%20System%20Frameworks%20in%20Python%20and%20Objective-C.pdf
+[2]: /PSU%20MacAdmins%202015%20-%20Working%20with%20System%20Frameworks%20in%20Python%20and%20Objective-C/Working%20with%20System%20Frameworks%20in%20Python%20and%20Objective-C.pdf
